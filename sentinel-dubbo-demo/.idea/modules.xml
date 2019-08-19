@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sentinel-dubbo-provider/sentinel-api/sentinel-api.iml" filepath="$PROJECT_DIR$/sentinel-dubbo-provider/sentinel-api/sentinel-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-dubbo-consumer/sentinel-dubbo-consumer.iml" filepath="$PROJECT_DIR$/sentinel-dubbo-consumer/sentinel-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-dubbo-provider/sentinel-dubbo-provider.iml" filepath="$PROJECT_DIR$/sentinel-dubbo-provider/sentinel-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-dubbo-provider/sentinel-provider/sentinel-provider.iml" filepath="$PROJECT_DIR$/sentinel-dubbo-provider/sentinel-provider/sentinel-provider.iml" />
+    </modules>
+  </component>
+</project>
