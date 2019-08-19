@@ -38,7 +38,7 @@
 
 ```java
 public interface SentinelService {
-		String sayHello(String name);
+  String sayHello(String name);
 }
 ```
 
@@ -47,12 +47,12 @@ public interface SentinelService {
 ```java
 @Service
 public class SentinelServiceImpl implements SentinelService{
-
-@Override
-public String sayHello(String name) {
+  
+  @Override
+  public String sayHello(String name) {
     System.out.println("begin execute sayHello:"+name);
-    		return "Hello World:"+name+"->timer:"+LocalDateTime.now();
-    }
+    return "Hello World:"+name+"->timer:"+LocalDateTime.now();
+  }
 }
 ```
 
